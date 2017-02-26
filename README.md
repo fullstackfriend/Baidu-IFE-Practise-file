@@ -1,2 +1,2 @@
 # Baidu-IFE-Practise-file
->This file is just for Baidu IFE Practise.
+>This file is just for submit Baidu IFE task.
